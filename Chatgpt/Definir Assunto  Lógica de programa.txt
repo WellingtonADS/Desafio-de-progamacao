@@ -1,0 +1,29 @@
+Definir Assunto : Lógica de programação
+Titulo Chamativo: headline
+Imagem de capa
+Bloco de artigo
+postagem com call action
+
+
+
+**Iniciando na Programação: Desvendando os Segredos da Tecnologia**
+
+Se você é um Padawan pronto para embarcar na jornada da programação, este é o seu convite para explorar o universo fascinante da lógica de programação! 💻 Prepare-se para mergulhar em conceitos essenciais de uma forma leve e empolgante. Estamos prestes a desvendar os mistérios por trás dos códigos e algoritmos que movem o mundo digital! 🌟
+
+**Navegando pela Lógica: Uma Aventura de Descobertas**
+
+Pense na lógica como um mapa mágico que guia nossos passos no vasto universo da tecnologia. 🗺️ Assim como desvendar um enigma emocionante, a lógica nos ajuda a resolver problemas de forma inteligente e criativa. É como se estivéssemos decifrando os segredos dos aplicativos que tanto amamos!
+
+**Desvendando os Algoritmos: Receitas para o Sucesso Tecnológico**
+
+Os algoritmos são como fórmulas secretas que transformam problemas complexos em soluções simples e eficazes. 📜 Imagine-os como as etapas de uma receita de bolo delicioso, onde cada passo nos aproxima do resultado final. Com os algoritmos, você terá o poder de criar magia no mundo digital!
+
+**Variáveis: Guardiãs dos Dados Preciosos**
+
+As variáveis são como cofres encantados onde guardamos informações valiosas. 🔒 Desde números mágicos até palavras encantadas, as variáveis nos permitem criar programas que se adaptam e respondem às nossas necessidades. Com elas, o poder está em suas mãos para criar o inimaginável!
+
+**Operadores: A Chave para o Mundo dos Possíveis**
+
+Os operadores são como chaves que abrem as portas para infinitas possibilidades no reino da programação. 🔑 Com eles, podemos realizar cálculos mágicos, comparar valores e tomar decisões sábias. É como se fossemos os magos do código, moldando o mundo digital conforme nossos desejos!
+
+Então, prepare-se para uma jornada emocionante rumo ao domínio da programação! 🚀 Com esses conhecimentos fundamentais, você estará pronto para criar suas próprias aventuras tecnológicas e deixar sua marca no universo digital! 💡

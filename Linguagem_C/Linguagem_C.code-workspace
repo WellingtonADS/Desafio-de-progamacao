@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Linguagem_C"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+
+
+		]
+	}
+}
